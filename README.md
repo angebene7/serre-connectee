@@ -28,5 +28,9 @@ L'objectif est d'améliorer la gestion des plantes en automatisant certaines act
 Ce projet m’a permis de découvrir le fonctionnement des capteurs et la manière dont ils peuvent être utilisés pour surveiller un environnement.
 
 [cahier des charge -htmlcode-.pdf](https://github.com/user-attachments/files/25782028/cahier.des.charge.-htmlcode-.pdf)
+
+
 [recap des composant -htmlcode-.pdf](https://github.com/user-attachments/files/25782008/recap.des.composant.-htmlcode-.pdf)
+
+
 [htmlCode.pdf](https://github.com/user-attachments/files/25781999/htmlCode.pdf)
